@@ -1,0 +1,12 @@
+C:\desenvolvimento\csharp\csharp_training\AcmeApp\Tests\Acme.BizTests\bin\Debug\Acme.BizTests.dll
+C:\desenvolvimento\csharp\csharp_training\AcmeApp\Tests\Acme.BizTests\bin\Debug\Acme.BizTests.pdb
+C:\desenvolvimento\csharp\csharp_training\AcmeApp\Tests\Acme.BizTests\bin\Debug\Acme.Biz.dll
+C:\desenvolvimento\csharp\csharp_training\AcmeApp\Tests\Acme.BizTests\bin\Debug\Acme.Common.dll
+C:\desenvolvimento\csharp\csharp_training\AcmeApp\Tests\Acme.BizTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\desenvolvimento\csharp\csharp_training\AcmeApp\Tests\Acme.BizTests\bin\Debug\Acme.Biz.pdb
+C:\desenvolvimento\csharp\csharp_training\AcmeApp\Tests\Acme.BizTests\bin\Debug\Acme.Common.pdb
+C:\desenvolvimento\csharp\csharp_training\AcmeApp\Tests\Acme.BizTests\obj\Debug\Acme.BizTests.csprojResolveAssemblyReference.cache
+C:\desenvolvimento\csharp\csharp_training\AcmeApp\Tests\Acme.BizTests\obj\Debug\Acme.BizTests.csproj.CoreCompileInputs.cache
+C:\desenvolvimento\csharp\csharp_training\AcmeApp\Tests\Acme.BizTests\obj\Debug\Acme.BizTests.csproj.CopyComplete
+C:\desenvolvimento\csharp\csharp_training\AcmeApp\Tests\Acme.BizTests\obj\Debug\Acme.BizTests.dll
+C:\desenvolvimento\csharp\csharp_training\AcmeApp\Tests\Acme.BizTests\obj\Debug\Acme.BizTests.pdb

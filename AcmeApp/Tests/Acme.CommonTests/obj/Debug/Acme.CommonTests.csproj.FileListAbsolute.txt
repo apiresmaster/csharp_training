@@ -1,0 +1,10 @@
+C:\desenvolvimento\csharp\csharp_training\AcmeApp\Tests\Acme.CommonTests\bin\Debug\Acme.CommonTests.dll
+C:\desenvolvimento\csharp\csharp_training\AcmeApp\Tests\Acme.CommonTests\bin\Debug\Acme.CommonTests.pdb
+C:\desenvolvimento\csharp\csharp_training\AcmeApp\Tests\Acme.CommonTests\bin\Debug\Acme.Common.dll
+C:\desenvolvimento\csharp\csharp_training\AcmeApp\Tests\Acme.CommonTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\desenvolvimento\csharp\csharp_training\AcmeApp\Tests\Acme.CommonTests\bin\Debug\Acme.Common.pdb
+C:\desenvolvimento\csharp\csharp_training\AcmeApp\Tests\Acme.CommonTests\obj\Debug\Acme.CommonTests.csprojResolveAssemblyReference.cache
+C:\desenvolvimento\csharp\csharp_training\AcmeApp\Tests\Acme.CommonTests\obj\Debug\Acme.CommonTests.csproj.CoreCompileInputs.cache
+C:\desenvolvimento\csharp\csharp_training\AcmeApp\Tests\Acme.CommonTests\obj\Debug\Acme.CommonTests.csproj.CopyComplete
+C:\desenvolvimento\csharp\csharp_training\AcmeApp\Tests\Acme.CommonTests\obj\Debug\Acme.CommonTests.dll
+C:\desenvolvimento\csharp\csharp_training\AcmeApp\Tests\Acme.CommonTests\obj\Debug\Acme.CommonTests.pdb

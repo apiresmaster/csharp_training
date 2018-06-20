@@ -1,0 +1,6 @@
+C:\desenvolvimento\csharp\csharp_training\AcmeApp\Acme.Common\bin\Debug\Acme.Common.dll
+C:\desenvolvimento\csharp\csharp_training\AcmeApp\Acme.Common\bin\Debug\Acme.Common.pdb
+C:\desenvolvimento\csharp\csharp_training\AcmeApp\Acme.Common\obj\Debug\Acme.Common.csprojResolveAssemblyReference.cache
+C:\desenvolvimento\csharp\csharp_training\AcmeApp\Acme.Common\obj\Debug\Acme.Common.csproj.CoreCompileInputs.cache
+C:\desenvolvimento\csharp\csharp_training\AcmeApp\Acme.Common\obj\Debug\Acme.Common.dll
+C:\desenvolvimento\csharp\csharp_training\AcmeApp\Acme.Common\obj\Debug\Acme.Common.pdb
